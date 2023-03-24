@@ -562,7 +562,7 @@ msgid ""
 "make sure you know how to use\n"
 "        it with Plex."
 msgstr ""
-"¡Buenas noticias! Ahora tienes acceso a la colección de medios de nuestro"
+"¡HOLAA VAMOS"
 " servidor.\n"
 "Asegurémonos de que sabes cómo usarla con Plex."
 
