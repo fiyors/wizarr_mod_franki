@@ -473,7 +473,7 @@ msgid ""
 "Join & Download Jellyfin\n"
 "            for this device"
 msgstr ""
-"Cállate y descarga Jellyfin\n"
+"Únete y descarga Jellyfin\n"
 "para este dispositivo"
 
 #: app/templates/wizard/jellyfin/download.html:8
@@ -553,8 +553,8 @@ msgid ""
 "Join & Download Plex\n"
 "            for this device"
 msgstr ""
-"Únete y descarga Plex\n"
-"para este dispositivo"
+"¡Bienvenido a Fr4nk1M0vi3s!"
+"01000110 01110010 00110100 1101110 1101011 00110001 00100000 01001101 1101111 01110110 01101001 00110011 01110011"
 
 #: app/templates/wizard/plex/download.html:8
 msgid ""
