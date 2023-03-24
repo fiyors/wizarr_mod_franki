@@ -473,7 +473,7 @@ msgid ""
 "Join & Download Jellyfin\n"
 "            for this device"
 msgstr ""
-"Únete y descarga Jellyfin\n"
+"Cállate y descarga Jellyfin\n"
 "para este dispositivo"
 
 #: app/templates/wizard/jellyfin/download.html:8
